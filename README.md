@@ -29,9 +29,9 @@ This project is an interactive data visualization built using **D3.js** that rep
 * **Zoom In & Zoom Out:**
   Clicking on a Sunburst segment zooms into that level for detailed exploration, while clicking on higher-level segments or the centre allows users to zoom out. Smooth transitions improve usability and visual clarity.
 
-## 🌐 Live Demo
+##  Live Demo
 
-👉 **Demo URL:** [https://your-username.github.io/repo-name/](https://your-username.github.io/repo-name/)
+**Demo URL:** https://hitasha912.github.io/heirarchichal-sales-data/
 
 
 
