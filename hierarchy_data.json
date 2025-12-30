@@ -1,0 +1,196 @@
+{
+  "name": "Total Sales",
+  "children": [
+    {
+      "name": "Self Care",
+      "children": [
+        {
+          "name": "Skincare",
+          "children": [
+            { "name": "Face Wash", "value": 60000 },
+            { "name": "Moisturizer", "value": 70000 },
+            { "name": "Sunscreen", "value": 65000 }
+          ]
+        },
+        {
+          "name": "Haircare",
+          "children": [
+            { "name": "Shampoo", "value": 80000 },
+            { "name": "Conditioner", "value": 60000 },
+            { "name": "Hair Oil", "value": 65000 }
+          ]
+        },
+        {
+          "name": "Personal Hygiene",
+          "children": [
+            { "name": "Soap", "value": 70000 },
+            { "name": "Body Wash", "value": 60000 },
+            { "name": "Toothpaste", "value": 65000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Groceries",
+      "children": [
+        {
+          "name": "Staples",
+          "children": [
+            { "name": "Rice", "value": 140000 },
+            { "name": "Wheat Flour", "value": 120000 },
+            { "name": "Pulses", "value": 110000 },
+            { "name": "Cooking Oil", "value": 130000 }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "children": [
+            { "name": "Beverages", "value": 80000 },
+            { "name": "Soft Drinks", "value": 85000 },
+            { "name": "Fruit Juice", "value": 80000 }
+          ]
+        },
+        {
+          "name": "Packaged Foods",
+          "children": [
+            { "name": "Biscuits", "value": 90000 },
+            { "name": "Snacks", "value": 100000 },
+            { "name": "Breakfast Cereals", "value": 85000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stationery",
+      "children": [
+        {
+          "name": "Writing Supplies",
+          "children": [
+            { "name": "Pens", "value": 50000 },
+            { "name": "Pencils", "value": 40000 },
+            { "name": "Markers", "value": 45000 }
+          ]
+        },
+        {
+          "name": "Paper Products",
+          "children": [
+            { "name": "Notebooks", "value": 70000 },
+            { "name": "Diaries", "value": 60000 },
+            { "name": "Sticky Notes", "value": 50000 }
+          ]
+        },
+        {
+          "name": "Office Supplies",
+          "children": [
+            { "name": "Files & Folders", "value": 45000 },
+            { "name": "Staplers", "value": 35000 },
+            { "name": "Calculators", "value": 55000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Fitness",
+      "children": [
+        {
+          "name": "Fitness Equipment",
+          "children": [
+            { "name": "Yoga Mats", "value": 55000 },
+            { "name": "Dumbbells", "value": 65000 },
+            { "name": "Skipping Ropes", "value": 45000 }
+          ]
+        },
+        {
+          "name": "Outdoor Sports",
+          "children": [
+            { "name": "Cricket Bats", "value": 85000 },
+            { "name": "Footballs", "value": 75000 },
+            { "name": "Badminton Rackets", "value": 70000 },
+            { "name": "Tennis Balls", "value": 60000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "children": [
+        {
+          "name": "Laptop",
+          "children": [
+            { "name": "Dell", "value": 300000 },
+            { "name": "MSI", "value": 280000 },
+            { "name": "Acer", "value": 260000 },
+            { "name": "Asus", "value": 240000 }
+          ]
+        },
+        {
+          "name": "Mobile Phone",
+          "children": [
+            { "name": "Realme", "value": 320000 },
+            { "name": "Samsung", "value": 300000 },
+            { "name": "OnePlus", "value": 260000 },
+            { "name": "Xiaomi", "value": 240000 }
+          ]
+        },
+        {
+          "name": "Tablet",
+          "children": [
+            { "name": "Apple", "value": 260000 },
+            { "name": "Motorola", "value": 240000 },
+            { "name": "Lenovo", "value": 220000 }
+          ]
+        },
+        {
+          "name": "Monitor",
+          "children": [
+            { "name": "LG", "value": 260000 },
+            { "name": "Zebronics", "value": 240000 },
+            { "name": "BenQ", "value": 220000 }
+          ]
+        },
+        {
+          "name": "Printer",
+          "children": [
+            { "name": "HP", "value": 220000 },
+            { "name": "Canon", "value": 210000 },
+            { "name": "Epson", "value": 200000 }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "children": [
+            { "name": "Headphones", "value": 200000 },
+            { "name": "Keyboards", "value": 180000 },
+            { "name": "Mouse", "value": 160000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Furniture",
+      "children": [
+        {
+          "name": "Seating",
+          "children": [
+            { "name": "Chair", "value": 350000 },
+            { "name": "Office Stool", "value": 220000 }
+          ]
+        },
+        {
+          "name": "Tables",
+          "children": [
+            { "name": "Desk", "value": 320000 },
+            { "name": "Dining Table", "value": 280000 }
+          ]
+        },
+        {
+          "name": "Storage",
+          "children": [
+            { "name": "Bookshelf", "value": 260000 },
+            { "name": "Wardrobe", "value": 300000 }
+          ]
+        }
+      ]
+    }
+  ]
+}

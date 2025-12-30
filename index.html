@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Product Sales Data</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+
+    <h1>Product Sales Data</h1>
+
+    <div id="chart"></div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+
+
+    <div id="controls">
+        <label>
+            Category:
+            <select id="categorySelect"></select>
+        </label>
+
+        <label>
+            New Value:
+            <input type="number" id="valueInput" />
+        </label>
+
+        <button id="updateBtn">Update</button>
+    </div>
+
+
+
+    <div id="addControls" style="margin-top:15px;">
+        <label>
+            Parent Category:
+            <select id="parentSelect"></select>
+        </label>
+
+        <label>
+            New Category:
+            <input type="text" id="newCategoryInput" placeholder="e.g. Accessories" />
+        </label>
+
+        <label>
+            Value:
+            <input type="number" id="newCategoryValue" placeholder="400" />
+        </label>
+
+        <button id="addCategoryBtn">Add Category</button>
+    </div>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
